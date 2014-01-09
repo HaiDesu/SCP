@@ -14,13 +14,14 @@
 </div>
 
 <div class="row">
-	<?php echo $this->getContent() ?>
-	<? foreach ($stypes as $stype) { ?>
-	<div class="col-lg-6">
-		<div class="well">
-			<h4><a href="/stypes/show/<?=str_replace(' ','_', strtolower($stype->label));?>"><?=$stype->label;?></a></h4>
-			<p><?=$stype->description;?></p>
-		</div>
+	<div class="list-group">
+		<?php echo $this->getContent() ?>
+		<? foreach ($stypes as $stype) { ?>
+		<a href="/stypes/show/<?=str_replace(' ','_', strtolower($stype->name));?>" class="list-group-item">
+			<h4 class="list-group-item-heading"><?=$stype->name;?></h4>
+			<p class="list-group-item-text"><?=$stype->description;?></p>
+		</a>
+		<? } ?>
 	</div>
-	<? } ?>
 </div>
+

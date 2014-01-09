@@ -27,7 +27,7 @@
 					<?php echo $this->tag->textField(array("email", 'class' => 'form-control')) ?>
 				</div>
 				<div class="form-group">
-					<?=$this->tag->select(array("group", Abstaff\Models\Groups::find(), "using" => array("id", "name"), "useEmpty" => false, 'class' => 'form-control'));?>
+					<?=$this->tag->select(array("group", Abstaff\Models\UserGroups::find(), "using" => array("id", "name"), "useEmpty" => false, 'class' => 'form-control'));?>
 				</div>
 				<div class="form-group">
 					<?=$this->tag->selectStatic("validated", array("Y" => "Validated", "N" => "NOT validated"));?>

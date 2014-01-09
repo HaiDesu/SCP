@@ -32,9 +32,14 @@ class FailedLogins extends Model
 	public $userAgent;
 	
 	/**
-	 * @var string
+	 * @var datetime
 	 */
 	public $date;
+	
+	/**
+	 * @var string
+	 */
+	public $module;
 	
 	/**
 	 * @var integer

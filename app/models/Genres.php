@@ -15,12 +15,21 @@ class Genres extends \Phalcon\Mvc\Model
      *
      * @var string
      */
-    public $label;
+    public $name;
      
     /**
      *
      * @var string
      */
     public $description;
-     
+	
+	public function initialize()
+    {
+        $this->hasMany("id", "SeriesGenres", "genresId");
+    }
+	
+	public function getSeriesGenres($parameters=null)
+	{
+		return $this->getRelated('Abstaff\Models\SeriesGenres');
+	} 
 }

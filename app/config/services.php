@@ -10,7 +10,7 @@ use Phalcon\DI\FactoryDefault,
 	Phalcon\Mvc\Model\Metadata\Memory as MetaDataAdapter,
 	Phalcon\Session\Adapter\Files as SessionAdapter;
 	
-use Abstaff\Plugins\Security as Security;
+use Abstaff\Auth\Auth;
 
 /**
  * The FactoryDefault Dependency Injector automatically register the right services providing a full stack framework
@@ -25,6 +25,10 @@ $di->set('url', function() use ($config) {
 	$url->setBaseUri($config->application->baseUri);
 	return $url;
 }, true);
+
+$di->set('modelsManager', function() {
+    return new Phalcon\Mvc\Model\Manager();
+ });
 
 /**
  * Setting up the view component
@@ -107,4 +111,11 @@ $di->set('flash', function(){
 		'success' => 'alert alert-success',
 		'notice' => 'alert alert-info',
 	));
+});
+
+/**
+ * Custom authentication component
+ */
+$di->set('auth', function () {
+    return new Auth();
 });

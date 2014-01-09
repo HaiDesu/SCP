@@ -23,6 +23,9 @@ body {
   padding: 5px 15px;
 }
 
+.no-weight{font-weight:400}
+.ajax-loading{display:inline-block;width:30px;height:30px;background:url('/assets/img/spin.gif') no-repeat;}
+
 /* Nav Messages */
 
 .messages-dropdown .dropdown-menu .message-preview .avatar,

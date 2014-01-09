@@ -7,7 +7,7 @@
 	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
 	<link href="/assets/css/staffcp.css" rel="stylesheet">
 	<link href="/assets/css/icomoon.css" rel="stylesheet">
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
   </head>
   <body>
 	<div id="wrapper">
@@ -15,5 +15,8 @@
 	</div>
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 	<script src="/assets/js/ckeditor/ckeditor.js"></script>
+	<script type="text/javascript">
+		$('.modal').modal('toggle');
+	</script>
   </body>
 </html>

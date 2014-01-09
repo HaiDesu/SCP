@@ -1,0 +1,160 @@
+[Wed, 08 Jan 14 00:19:50 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:19:50 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:19:50 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:25:13 +0000][ERROR] Undefined variable: modelsManager /opt/sites/abaka/vokuro/app/controllers/IndexController.php:49
+[Wed, 08 Jan 14 00:25:15 +0000][ERROR] Undefined variable: modelsManager /opt/sites/abaka/vokuro/app/controllers/IndexController.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:27:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:33:20 +0000][ERROR] Access to undefined property Abstaff\Models\Series::genre /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:53
+[Wed, 08 Jan 14 00:33:20 +0000][ERROR] Access to undefined property Abstaff\Models\Series::genre /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:53
+[Wed, 08 Jan 14 00:33:20 +0000][ERROR] Access to undefined property Abstaff\Models\Series::genre /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:53
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:53
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:53
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:37:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:53
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:38:01 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:51:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:52:32 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:49
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:53:16 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:50
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:51
+[Wed, 08 Jan 14 00:54:17 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:34 +0000][ERROR] Access to undefined property Abstaff\Models\Series::name /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:34 +0000][ERROR] Access to undefined property Abstaff\Models\Series::name /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:34 +0000][ERROR] Access to undefined property Abstaff\Models\Series::name /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:46 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$st /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:46 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:46 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$st /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:46 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:46 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$st /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:00:46 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_index_index.volt.php:52
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$slug /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:33
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:33
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$altTitle /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:34
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:35
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$slug /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:33
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:33
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$altTitle /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:34
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:35
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$slug /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:33
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:33
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$altTitle /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:34
+[Wed, 08 Jan 14 01:02:20 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$status /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:35
+[Wed, 08 Jan 14 01:07:24 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 01:07:26 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 01:09:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 01:12:51 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:38
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:39
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$episode_id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:40
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$vhost /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:41
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:41
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$screencap /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:42
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:43
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:43
+[Wed, 08 Jan 14 01:44:12 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$dateAdded /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:44
+[Wed, 08 Jan 14 01:48:58 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 01:57:20 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 02:14:26 +0000][ERROR] A non well formed numeric value encountered /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:40
+[Wed, 08 Jan 14 02:15:55 +0000][ERROR] date_format() expects parameter 1 to be DateTimeInterface, string given /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:40
+[Wed, 08 Jan 14 03:13:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 03:13:05 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Wed, 08 Jan 14 03:13:05 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Wed, 08 Jan 14 03:13:16 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Wed, 08 Jan 14 03:13:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 03:13:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Wed, 08 Jan 14 03:13:45 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Wed, 08 Jan 14 03:14:01 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 03:14:01 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Wed, 08 Jan 14 03:14:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Wed, 08 Jan 14 03:14:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Wed, 08 Jan 14 04:46:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Wed, 08 Jan 14 04:46:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Wed, 08 Jan 14 15:55:15 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Wed, 08 Jan 14 15:55:15 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Wed, 08 Jan 14 22:22:35 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Wed, 08 Jan 14 22:22:35 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66

@@ -3,6 +3,7 @@
 namespace Abstaff\Controllers;
 
 use Phalcon\Mvc\Model\Criteria,
+	Phalcon\Tag as Tag,
     Phalcon\Paginator\Adapter\Model as Paginator;
 	
 use Abstaff\Models\Genres as Genres;
@@ -15,7 +16,8 @@ class GenresController extends ControllerBase
      */
     public function indexAction()
     {
-        $this->view->setVar("genres", Genres::find());
+        Tag::appendTitle('Genres Overview');
+		$this->view->setVar("genres", Genres::find());
 		
     }
 
@@ -37,7 +39,7 @@ class GenresController extends ControllerBase
         if (!is_array($parameters)) {
             $parameters = array();
         }
-        $parameters["order"] = "label";
+        $parameters["order"] = "name";
 
         $genres = Genres::find($parameters);
         if (count($genres) == 0) {
@@ -87,7 +89,7 @@ class GenresController extends ControllerBase
             $this->view->id = $genre->id;
 
             $this->tag->setDefault("id", $genre->id);
-            $this->tag->setDefault("label", $genre->label);
+            $this->tag->setDefault("name", $genre->name);
             $this->tag->setDefault("description", $genre->description);
             
         }
@@ -109,7 +111,7 @@ class GenresController extends ControllerBase
         $genre = new Genres();
 
         $genre->id = $this->request->getPost("id");
-        $genre->label = $this->request->getPost("label");
+        $genre->name = $this->request->getPost("name", "string");
         $genre->description = $this->request->getPost("description");
         
 
@@ -157,7 +159,7 @@ class GenresController extends ControllerBase
         }
 
         $genre->id = $this->request->getPost("id");
-        $genre->label = $this->request->getPost("label");
+        $genre->name = $this->request->getPost("name");
         $genre->description = $this->request->getPost("description");
         
 
@@ -218,10 +220,10 @@ class GenresController extends ControllerBase
         ));
     }
 	
-	public function showAction($genreName)
+	public function showAction($name)
 	{
 		$genre = Genres::findFirst(array(
-			'label = ?0', 'bind' => array(str_replace('_',' ', strtolower($genreName)))
+			'name = ?0', 'bind' => array(str_replace('_',' ', strtolower($name)))
 		));
 		$this->view->setVar("genre", $genre);
 	}

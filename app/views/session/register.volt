@@ -7,7 +7,7 @@
 				</div>
                 <div class="panel-body">
 					{{ content() }}
-                    {{ form('session/register', 'id': 'registerForm', 'class': 'form-horizontal', 'onbeforesubmit': 'return false') }}
+                    {{ form('session/create', 'id': 'registerForm', 'class': 'form-horizontal', 'onbeforesubmit': 'return false') }}
                     <div class="form-group">
                         <label for="username" class="col-sm-3 control-label">
                             Username</label>

@@ -22,7 +22,7 @@
 					<img src="http://www.gravatar.com/avatar/<?=md5(mb_strtolower(trim($user->email)));?>?s=200" alt="" width="200px" height="200px" />
 				</div>
 				<div class="col-lg-6">
-					<h3><?=$user->username;?></h3>
+					<h3><?=$user->username;?> <a href="/users/edit/<?=$user->id;?>" class="btn btn-default"><span class="icon-pencil"></span> Edit</a> <a title="Ban User" href="/users/ban/<?=$user->id;?>" class="btn btn-xs btn-danger"><span class="icon-hammer-2"></span></a></h3>
 					<table class="table table-condensed">
 						<tbody>
 							<tr>
@@ -43,7 +43,7 @@
 									{% if user.validated == "Y" %}
 										<span class="label label-success">validated</span>
 									{% elseif user.validated == "N" %}
-										<span class="label label-default">unvalidated</span>
+										<span class="label label-default">pending</span>
 									{% endif %}
 								</td>
 							</tr>
@@ -53,7 +53,7 @@
 									{% if user.banned == "Y" %}
 										<span class="label label-danger">banned</span>
 									{% elseif user.banned == "N" %}
-										<span class="label label-success">unbanned</span>
+										<span class="label label-success">active</span>
 									{% endif %}
 								</td>
 							</tr>

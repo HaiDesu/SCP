@@ -1,0 +1,62 @@
+[Thu, 09 Jan 14 00:22:45 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 00:22:45 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 01:42:12 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 01:42:12 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 01:42:42 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 01:42:42 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 01:48:36 +0000][ERROR] Undefined variable: series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_partial_add_phase2.volt.php:6
+[Thu, 09 Jan 14 01:48:36 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_partial_add_phase2.volt.php:6
+[Thu, 09 Jan 14 01:48:36 +0000][ERROR] Invalid argument supplied for foreach() /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_partial_add_phase2.volt.php:6
+[Thu, 09 Jan 14 04:13:57 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 04:13:57 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 05:50:21 +0000][ERROR] Undefined index: domain /opt/sites/abaka/vokuro/app/controllers/AjaxController.php:71
+[Thu, 09 Jan 14 05:50:49 +0000][ERROR] Undefined index: domain /opt/sites/abaka/vokuro/app/controllers/AjaxController.php:71
+[Thu, 09 Jan 14 05:51:57 +0000][ERROR] Undefined index: hostname /opt/sites/abaka/vokuro/app/controllers/AjaxController.php:71
+[Thu, 09 Jan 14 05:53:01 +0000][ERROR] Undefined index: hostname /opt/sites/abaka/vokuro/app/controllers/AjaxController.php:71
+[Thu, 09 Jan 14 06:28:19 +0000][ERROR] Undefined index: host /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:68
+[Thu, 09 Jan 14 06:33:04 +0000][ERROR] Undefined index: host /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:63
+[Thu, 09 Jan 14 06:33:04 +0000][ERROR] Undefined variable: mirror /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:92
+[Thu, 09 Jan 14 06:33:51 +0000][ERROR] Undefined index: host /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:63
+[Thu, 09 Jan 14 06:34:39 +0000][ERROR] Undefined index: error /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_partial_add_validate.volt.php:3
+[Thu, 09 Jan 14 06:34:45 +0000][ERROR] Undefined index: error /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_partial_add_validate.volt.php:3
+[Thu, 09 Jan 14 06:35:26 +0000][ERROR] Undefined index: error /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_partial_add_validate.volt.php:3
+[Thu, 09 Jan 14 06:36:05 +0000][ERROR] Undefined index: error /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_partial_add_validate.volt.php:3
+[Thu, 09 Jan 14 15:08:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 15:08:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 15:08:54 +0000][ERROR] Undefined variable: hue /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:35
+[Thu, 09 Jan 14 15:11:07 +0000][ERROR] Undefined index: group /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:63
+[Thu, 09 Jan 14 15:11:33 +0000][ERROR] Undefined index: usertitle /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:63
+[Thu, 09 Jan 14 15:17:31 +0000][ERROR] Undefined variable: hue /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:33
+[Thu, 09 Jan 14 15:17:31 +0000][ERROR] Undefined variable: mirrors_not_approved /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:32
+[Thu, 09 Jan 14 15:17:31 +0000][ERROR] Undefined variable: mirrors_not_approved /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:33
+[Thu, 09 Jan 14 15:17:31 +0000][ERROR] Invalid argument supplied for foreach() /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:33
+[Thu, 09 Jan 14 15:17:42 +0000][ERROR] Undefined variable: hue /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:33
+[Thu, 09 Jan 14 15:17:42 +0000][ERROR] Undefined variable: mirrors_not_approved /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:32
+[Thu, 09 Jan 14 15:17:42 +0000][ERROR] Undefined variable: mirrors_not_approved /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:33
+[Thu, 09 Jan 14 15:17:42 +0000][ERROR] Invalid argument supplied for foreach() /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:33
+[Thu, 09 Jan 14 15:17:43 +0000][ERROR] Undefined variable: hue /opt/sites/abaka/vokuro/app/controllers/MirrorsController.php:33
+[Thu, 09 Jan 14 15:17:43 +0000][ERROR] Undefined variable: mirrors_not_approved /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:32
+[Thu, 09 Jan 14 15:17:43 +0000][ERROR] Undefined variable: mirrors_not_approved /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:33
+[Thu, 09 Jan 14 15:17:43 +0000][ERROR] Invalid argument supplied for foreach() /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_mirrors_index.volt.php:33
+[Thu, 09 Jan 14 16:34:23 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:34:23 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 16:45:04 +0000][ERROR] Phalcon\DI\Injectable::__get(): Access to undefined property auth /opt/sites/abaka/vokuro/app/controllers/SessionController.php:76
+[Thu, 09 Jan 14 16:47:04 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:47:04 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 16:47:36 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:47:36 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 16:49:57 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:49:57 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 16:50:38 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:50:38 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 16:52:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/library/Auth/Auth.php:85
+[Thu, 09 Jan 14 16:53:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/library/Auth/Auth.php:86
+[Thu, 09 Jan 14 16:53:38 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:53:38 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 16:53:52 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/library/Auth/Auth.php:86
+[Thu, 09 Jan 14 16:55:27 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:55:27 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 16:56:38 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 16:56:38 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Thu, 09 Jan 14 18:35:44 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Thu, 09 Jan 14 18:35:44 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66

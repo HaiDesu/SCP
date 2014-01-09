@@ -14,13 +14,15 @@
 </div>
 
 <div class="row">
-	<?php echo $this->getContent() ?>
-	<? foreach ($genres as $genre) { ?>
-	<div class="col-lg-6">
-		<div class="well">
-			<h4><a href="/genres/show/<?=str_replace(' ','_', strtolower($genre->label));?>"><?=$genre->label;?></a></h4>
-			<p><?=$genre->description;?></p>
-		</div>
+	<div class="list-group">
+		<?php echo $this->getContent() ?>
+		<? foreach ($genres as $genre) { ?>
+		<a href="/genres/show/<?=str_replace(' ','_', strtolower($genre->name));?>" class="list-group-item">
+			<h4 class="list-group-item-heading"><?=$genre->name;?></h4>
+			<p class="list-group-item-text"><?=$genre->description;?></p>
+		</a>
+		<? } ?>
 	</div>
-	<? } ?>
 </div>
+
+

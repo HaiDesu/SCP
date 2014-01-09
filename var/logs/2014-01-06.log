@@ -1,0 +1,238 @@
+[Mon, 06 Jan 14 01:18:04 +0000][ERROR] Access to undefined property Abstaff\Models\Series::getModelsManager /opt/sites/abaka/vokuro/app/models/Series.php:99
+[Mon, 06 Jan 14 01:21:15 +0000][ERROR] Access to undefined property Abstaff\Models\Series::getModelsManager /opt/sites/abaka/vokuro/app/models/Series.php:99
+[Mon, 06 Jan 14 01:35:21 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Mon, 06 Jan 14 01:35:21 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Mon, 06 Jan 14 01:47:16 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:230
+[Mon, 06 Jan 14 01:47:19 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:230
+[Mon, 06 Jan 14 01:51:25 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:221
+[Mon, 06 Jan 14 02:44:38 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 02:47:37 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 02:55:56 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 02:55:56 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 02:56:06 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 02:56:06 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 02:56:07 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 02:56:07 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 02:59:10 +0000][ERROR] Undefined variable: modelsManager /opt/sites/abaka/vokuro/app/models/Series.php:101
+[Mon, 06 Jan 14 02:59:44 +0000][ERROR] Undefined variable: modelsManager /opt/sites/abaka/vokuro/app/models/Series.php:101
+[Mon, 06 Jan 14 03:00:56 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:00:56 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 03:04:46 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:04:46 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 03:08:08 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:08:08 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 03:08:55 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:14 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:38 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:40 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:44 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:47 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:49 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:54 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:09:56 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:10:15 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:14:31 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:14:31 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 03:14:34 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:14:34 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 03:14:35 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:14:35 +0000][ERROR] Non-static method Abstaff\Models\Series::getPrequel() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:223
+[Mon, 06 Jan 14 03:14:48 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:22:05 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:22:25 +0000][ERROR] Non-static method Abstaff\Models\Series::getGenres() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:222
+[Mon, 06 Jan 14 03:26:24 +0000][ERROR] Object of class Abstaff\Models\SeriesPresequel could not be converted to string /opt/sites/abaka/vokuro/app/models/Series.php:97
+[Mon, 06 Jan 14 03:30:28 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 03:30:31 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 03:30:32 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 03:30:36 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 03:31:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 03:31:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:55
+[Mon, 06 Jan 14 03:34:56 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 03:35:06 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 03:35:48 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 04:09:48 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Mon, 06 Jan 14 04:09:48 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Mon, 06 Jan 14 04:10:17 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:97
+[Mon, 06 Jan 14 04:10:28 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 04:11:06 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:104
+[Mon, 06 Jan 14 04:32:13 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:103
+[Mon, 06 Jan 14 04:32:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:110
+[Mon, 06 Jan 14 04:32:45 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:110
+[Mon, 06 Jan 14 04:33:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:110
+[Mon, 06 Jan 14 04:33:23 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:110
+[Mon, 06 Jan 14 04:33:58 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:110
+[Mon, 06 Jan 14 05:18:24 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Mon, 06 Jan 14 05:18:24 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Mon, 06 Jan 14 05:48:50 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:35
+[Mon, 06 Jan 14 05:49:56 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_index.volt.php:35
+[Mon, 06 Jan 14 07:49:26 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Mon, 06 Jan 14 07:49:26 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Mon, 06 Jan 14 07:50:00 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 07:50:00 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 07:58:21 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 07:58:21 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 08:01:07 +0000][ERROR] Undefined variable: series /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:30
+[Mon, 06 Jan 14 08:01:07 +0000][ERROR] Invalid argument supplied for foreach() /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:30
+[Mon, 06 Jan 14 08:02:22 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:22 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:22 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:22 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:22 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:22 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 08:02:23 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:31
+[Mon, 06 Jan 14 14:38:57 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Mon, 06 Jan 14 14:38:57 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Mon, 06 Jan 14 15:18:47 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 15:18:47 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 15:20:15 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 15:20:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 15:36:08 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 16:47:13 +0000][ERROR] Missing argument 1 for Abstaff\Controllers\EpisodesController::new1Action() /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:27
+[Mon, 06 Jan 14 16:47:13 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 16:47:13 +0000][ERROR] Undefined variable: series_id /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 16:48:09 +0000][ERROR] Missing argument 1 for Abstaff\Controllers\EpisodesController::new1Action() /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:27
+[Mon, 06 Jan 14 16:48:09 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 16:48:09 +0000][ERROR] Undefined variable: series_id /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 16:50:35 +0000][ERROR] Missing argument 1 for Abstaff\Controllers\EpisodesController::new1Action() /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:27
+[Mon, 06 Jan 14 16:50:35 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 16:50:35 +0000][ERROR] Undefined variable: series_id /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 16:57:34 +0000][ERROR] Missing argument 1 for Abstaff\Controllers\EpisodesController::new1Action() /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:27
+[Mon, 06 Jan 14 16:57:34 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 16:58:15 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 17:00:47 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 17:19:46 +0000][ERROR] json_decode() expects parameter 1 to be string, array given /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 17:20:22 +0000][ERROR] Array to string conversion /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:33
+[Mon, 06 Jan 14 17:21:03 +0000][ERROR] Array to string conversion /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:33
+[Mon, 06 Jan 14 18:41:26 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 18:41:26 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:28
+[Mon, 06 Jan 14 18:41:46 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 18:41:46 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:28
+[Mon, 06 Jan 14 18:41:46 +0000][ERROR] Undefined property: stdClass::$episodes /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:22
+[Mon, 06 Jan 14 18:41:46 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Mon, 06 Jan 14 18:41:46 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Mon, 06 Jan 14 18:41:58 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 18:41:58 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:28
+[Mon, 06 Jan 14 18:41:58 +0000][ERROR] Undefined property: stdClass::$episodes /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:22
+[Mon, 06 Jan 14 18:42:27 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 18:42:27 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:28
+[Mon, 06 Jan 14 18:42:27 +0000][ERROR] Undefined property: stdClass::$episodes /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:22
+[Mon, 06 Jan 14 18:42:33 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 18:42:33 +0000][ERROR] Creating default object from empty value /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:28
+[Mon, 06 Jan 14 18:42:33 +0000][ERROR] Undefined property: stdClass::$episodes /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:22
+[Mon, 06 Jan 14 18:45:02 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:29
+[Mon, 06 Jan 14 18:46:58 +0000][ERROR] Non-static method Abstaff\Models\Series::getType() should not be called statically, assuming $this from incompatible context /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:28
+[Mon, 06 Jan 14 18:47:39 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 18:48:16 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 18:50:30 +0000][ERROR] Undefined variable: seriesId /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:30
+[Mon, 06 Jan 14 19:31:24 +0000][ERROR] Undefined variable: episodeslist /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:46
+[Mon, 06 Jan 14 19:31:24 +0000][ERROR] Invalid argument supplied for foreach() /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:46
+[Mon, 06 Jan 14 19:37:41 +0000][ERROR] end() expects parameter 1 to be array, null given /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 19:50:09 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 19:51:27 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 19:57:16 +0000][ERROR] array_slice() expects parameter 1 to be array, object given /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:32
+[Mon, 06 Jan 14 19:57:16 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 19:57:43 +0000][ERROR] array_slice() expects parameter 1 to be array, object given /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:32
+[Mon, 06 Jan 14 19:57:43 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 20:03:25 +0000][ERROR] Access to undefined property Abstaff\Models\Series::lastepi /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 20:03:37 +0000][ERROR] Access to undefined property Abstaff\Models\Series::lastepi /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 20:03:42 +0000][ERROR] Access to undefined property Abstaff\Models\Series::lastepi /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:64
+[Mon, 06 Jan 14 20:40:00 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 20:40:00 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 20:41:31 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 20:41:31 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 20:42:12 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 20:42:12 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 20:42:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:42:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:42:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:42:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:42:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:42:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:44:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:44:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:44:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:44:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:44:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:44:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:46:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:46:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:46:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:46:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:46:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:46:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:46:48 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:46:48 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:46:48 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:46:48 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:46:48 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:46:48 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:47:38 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:47:38 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:47:38 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:47:38 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:47:38 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:47:38 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:48:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:48:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:48:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:48:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:48:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:48:40 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:49:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:49:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:49:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:49:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:49:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:49:19 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:49:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:49:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:49:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:49:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:49:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:49:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:50:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:54
+[Mon, 06 Jan 14 20:50:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:56
+[Mon, 06 Jan 14 20:50:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:57
+[Mon, 06 Jan 14 20:50:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 20:50:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 20:50:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 20:51:35 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:38
+[Mon, 06 Jan 14 20:52:14 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:38
+[Mon, 06 Jan 14 20:53:21 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:35
+[Mon, 06 Jan 14 20:55:24 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:35
+[Mon, 06 Jan 14 20:57:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:35
+[Mon, 06 Jan 14 20:57:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:35
+[Mon, 06 Jan 14 20:57:28 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:35
+[Mon, 06 Jan 14 20:57:41 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:35
+[Mon, 06 Jan 14 21:07:16 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 21:07:16 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 21:15:02 +0000][ERROR] Object of class Phalcon\Mvc\Model\Resultset\Simple could not be converted to int /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:33
+[Mon, 06 Jan 14 21:20:58 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:78
+[Mon, 06 Jan 14 21:20:58 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:80
+[Mon, 06 Jan 14 21:20:58 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_episodes_new.volt.php:81
+[Mon, 06 Jan 14 22:31:21 +0000][ERROR] Undefined variable: series /opt/sites/abaka/vokuro/app/controllers/EpisodesController.php:59
+[Mon, 06 Jan 14 23:09:10 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:09:10 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:11:04 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:11:04 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:12:56 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:12:56 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:27:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:27:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:49:43 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:49:43 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:57:43 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:57:43 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:58:50 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:58:50 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:59:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:59:22 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:59:43 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:59:43 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Mon, 06 Jan 14 23:59:54 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Mon, 06 Jan 14 23:59:54 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116

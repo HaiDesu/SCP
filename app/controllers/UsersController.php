@@ -8,7 +8,7 @@ use Phalcon\Mvc\Model\Criteria,
 	Phalcon\Tag as Tag;
 	
 use Abstaff\Models\Users as Users,
-	Abstaff\Models\Groups as Groups,
+	Abstaff\Models\UserGroups as UserGroups,
 	Abstaff\Models\SuccessLogins as SuccessLogins;
 
 class UsersController extends ControllerBase
@@ -16,7 +16,8 @@ class UsersController extends ControllerBase
 
 	public function indexAction()
 	{
-		$this->view->setVar("users", Users::find());
+		$users = Users::find();
+		$this->view->setVar("users", $users);
 	}
 	
 	/**
@@ -34,7 +35,7 @@ class UsersController extends ControllerBase
 				"action" => "index"
 			));
 		}
-		$user->group = Groups::findFirstByid($user->group);
+		$user->group = UserGroups::findFirstByid($user->group);
 		$successlogins = SuccessLogins::find(array(
 			'userId = ?0', 'bind' => array($user->id)
 		));
@@ -61,14 +62,12 @@ class UsersController extends ControllerBase
             $username = $request->getPost('username', 'alphanum');
             $email = $request->getPost('email', 'email');
             $password = $request->getPost('password');
-            //$repeatPassword = $this->request->getPost('repeatPassword');
             $group = $this->request->getPost('group');
 
             $user = new Users();
             $user->username = $username;
 			$user->email = $email;
-			$user->salt = $this->_generateSalt();
-            $user->password = $this->_generatePassHash($password, $user->salt);
+            $user->password = password_hash($password, PASSWORD_DEFAULT, ["cost" => 11]);
             $user->regDate = new RawValue('now()');
             $user->validated = 'Y';
             $user->banned = 'N';
@@ -187,9 +186,10 @@ class UsersController extends ControllerBase
 	 * @param string $passInput
 	 * return string
      */
-	private function _generatePassHash($passInput, $salt)
+	private function _generatePassHash($passInput)
 	{
-		return hash('sha256', $salt.$passInput);
+		//return hash('sha256', $salt.$passInput);
+		return password_hash($passInput, PASSWORD_DEFAULT, ["cost" => 11]);
 	}
 
 }

@@ -1,0 +1,156 @@
+[Sun, 05 Jan 14 20:41:35 +0000][ERROR] Object of class Phalcon\Mvc\Model\Row could not be converted to string /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:246
+[Sun, 05 Jan 14 20:41:49 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Resultset\Simple::$poster /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:246
+[Sun, 05 Jan 14 20:46:42 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Resultset\Complex::$poster /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:239
+[Sun, 05 Jan 14 20:47:26 +0000][ERROR] Undefined variable: poster /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:239
+[Sun, 05 Jan 14 20:47:58 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$poster /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:239
+[Sun, 05 Jan 14 20:48:51 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$poster /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:50:03 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$poster /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:50:20 +0000][ERROR] Object of class Phalcon\Mvc\Model\Row could not be converted to string /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:50:29 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:50:30 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:51:02 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Resultset\Complex::$series /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:239
+[Sun, 05 Jan 14 20:51:02 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:239
+[Sun, 05 Jan 14 20:51:19 +0000][ERROR] Undefined variable: series /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:51:20 +0000][ERROR] Undefined variable: series /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:52:34 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:241
+[Sun, 05 Jan 14 20:52:34 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:242
+[Sun, 05 Jan 14 20:52:34 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$slug /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:243
+[Sun, 05 Jan 14 20:52:34 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:244
+[Sun, 05 Jan 14 20:52:49 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:241
+[Sun, 05 Jan 14 20:52:49 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:242
+[Sun, 05 Jan 14 20:52:49 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$slug /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:243
+[Sun, 05 Jan 14 20:52:49 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:244
+[Sun, 05 Jan 14 20:53:10 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$id /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:241
+[Sun, 05 Jan 14 20:53:10 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$title /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:242
+[Sun, 05 Jan 14 20:53:10 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$slug /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:243
+[Sun, 05 Jan 14 20:53:10 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Row::$type /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:244
+[Sun, 05 Jan 14 20:54:11 +0000][ERROR] Undefined property: Phalcon\Mvc\Model\Resultset\Complex::$series /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:240
+[Sun, 05 Jan 14 20:58:22 +0000][ERROR] Undefined variable: manager /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:232
+[Sun, 05 Jan 14 20:58:29 +0000][ERROR] Undefined variable: manager /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:232
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Access to undefined property Abstaff\Models\SeriesGenres::id /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:25 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:29:39 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:53 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:30:57 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:05 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:07 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres could not be converted to string /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Object of class Abstaff\Models\SeriesGenres to string conversion /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:41
+[Sun, 05 Jan 14 21:35:09 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_series_show.volt.php:42
+[Sun, 05 Jan 14 21:51:19 +0000][ERROR] Access to undefined property Abstaff\Models\Series::modelsManager /opt/sites/abaka/vokuro/app/models/Series.php:99
+[Sun, 05 Jan 14 21:52:57 +0000][ERROR] Access to undefined property Abstaff\Models\Series::getModelsManager /opt/sites/abaka/vokuro/app/models/Series.php:99

@@ -71,9 +71,9 @@ class PagesController extends ControllerBase
 
         $page = new Pages();
 
-        $page->title = $this->request->getPost("title");
+        $page->title = strip_tags(trim($this->request->getPost("title")));
         $page->slug = $this->request->getPost("slug");
-        $page->content = $this->request->getPost("content");
+        $page->content = trim($this->request->getPost("content"));
         
 
         if (!$page->save()) {

@@ -28,7 +28,7 @@
 				<?php echo $this->tag->passwordField(array('password', 'class' => 'form-control', 'placeholder' => 'Password')) ?>
 			</div>
 			<div class="form-group">
-				<?=$this->tag->select(array("group", Abstaff\Models\Groups::find(), "using" => array("id", "name"), "useEmpty" => true, 'class' => 'form-control'));?>
+				<?=$this->tag->select(array("group", Abstaff\Models\Groups::find(), "using" => array("id", "name"), "useEmpty" => false, 'class' => 'form-control'));?>
 			</div>
 			<div class="form-group">
 				<button type="submit" class="btn btn-success"><span class="icon-disk"></span> Save</button>

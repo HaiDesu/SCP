@@ -27,10 +27,10 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="icon-film"></span> Videos <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="/series"><span class="icon-tv"></span> Series</a></li>
-                <li><a href="/episodes"><span class="icon-cabinet-2"></span> Episodes</a></li>
+                <li><a href="/episodes"><span class="icon-drawer-2"></span> Episodes</a></li>
                 <li><a href="/mirrors"><span class="icon-play"></span> Mirrors</a></li>
                 <li><a href="/genres"><span class="icon-tags"></span> Genres</a></li>
-                <li><a href="/stypes"><span class="icon-tags"></span> Series Types</a></li>
+                <li><a href="/series_types"><span class="icon-tags"></span> Series Types</a></li>
                 <li><a href="/reports"><span class="icon-flag"></span> Reports</a></li>
               </ul>
             </li>
@@ -38,7 +38,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="icon-accessibility"></span> Users & Access <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="/users"><span class="icon-users"></span> Users</a></li>
-                <li><a href="/groups"><span class="icon-user-4"></span> Groups</a></li>
+                <li><a href="/user_groups"><span class="icon-user-4"></span> Groups</a></li>
                 <li><a href="/access"><span class="icon-shield"></span> Permissions</a></li>
               </ul>
             </li>
@@ -46,9 +46,9 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="icon-map"></span> Articles <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="/pages"><span class="icon-file"></span> Pages</a></li>
-                <li><a href="/news"><span class="icon-newspaper"></span> News</a></li>
-                <li><a href="/categories"><span class="icon-bookmark"></span> Categories</a></li>
-                <li><a href="/newscomments"><span class="icon-bubbles-2"></span> News Comments</a></li>
+                <li><a href="/articles"><span class="icon-newspaper"></span> Articles</a></li>
+                <li><a href="/article_categories"><span class="icon-bookmark"></span> Article Categories</a></li>
+                <li><a href="/newscomments"><span class="icon-bubbles-2"></span> Article Comments</a></li>
               </ul>
             </li>
 			<li class="dropdown">

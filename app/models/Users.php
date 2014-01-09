@@ -30,11 +30,6 @@ class Users extends \Phalcon\Mvc\Model
     public $password;
 
     /**
-     * @var string
-     */
-    public $salt;
-
-    /**
      * @var date
      */
     public $regDate;
