@@ -131,26 +131,3 @@
 		</div>
 	</div>
 </div>
-
-<script type="text/javascript">
-/*	$("#series").on('change', function(){
-		//alert( this.value );
-		var seriesId = $(this).val();
-		//alert( "Series id: " + seriesId );
-		
-		var request = $.ajax({
-			url: "/episodes/new1",
-			type: "POST",
-			data: { id : seriesId },
-			dataType: "html"
-		});
-		 
-		request.done(function( msg ) {
-			alert( "Request failed: " + msg );
-		});
-		 
-		request.fail(function( jqXHR, textStatus ) {
-			alert( "Request failed: " + textStatus );
-		});   		
-	});*/
-</script>

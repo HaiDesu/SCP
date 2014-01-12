@@ -64,7 +64,7 @@
 						<label for="poster" class="col-sm-2 control-label">Poster</label>
 						<div class="col-sm-8">
 							<?php echo $this->tag->textField(array("poster", 'maxlength' => 96, 'class' => 'form-control', 'placeholder' => 'Poster URL')) ?>
-							<span class="help-block"><em>Use only direct image links. Use imgur.com for now.</em></span>
+							<span class="help-block"><em>Use only direct image links. ONLY .JPG. Use MAL direct links</em></span>
 						</div>
 					</div>
 					<div class="form-group">

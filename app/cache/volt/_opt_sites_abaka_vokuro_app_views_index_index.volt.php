@@ -29,3 +29,9 @@
 		<a href="/reports" class="btn btn-danger btn-lg btn-block"><span class="icon-flag"></span><br>Reports</a>
 	</div>
 </div>
+<br>
+<div class="row">
+	<div class="col-lg-6">
+		<script id="sid0020000050383992620">(function() {function async_load(){s.id="cid0020000050383992620";s.src='http://st.chatango.com/js/gz/emb.js';s.style.cssText="width:100%;height:500px;";s.async=true;s.text='{"handle":"abakatv","arch":"js","styles":{"a":"0084ef","b":100,"c":"FFFFFF","d":"FFFFFF","k":"0084ef","l":"0084ef","m":"0084ef","n":"FFFFFF","q":"0084ef","r":100,"cvbg":"CC0000","cvw":75,"cvh":40}}';var ss = document.getElementsByTagName('script');for (var i=0, l=ss.length; i < l; i++){if (ss[i].id=='sid0020000050383992620'){ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}var s=document.createElement('script');if (s.async==undefined){if (window.addEventListener) {addEventListener('load',async_load,false);}else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();</script>
+	</div>
+</div>

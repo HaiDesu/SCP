@@ -25,6 +25,10 @@ class SessionController extends Controller
         Tag::setTitle('Authenticate Yourself');
     }
 	
+	/**
+     * Displays the login form
+     *
+     */
 	public function indexAction()
 	{
 		//
@@ -61,6 +65,15 @@ class SessionController extends Controller
         }
 	}
 	
+	/**
+     * Displays the register
+     *
+     */
+	public function registerAction()
+	{
+		//
+	}
+	
 	public function createAction()
 	{
 	
@@ -88,6 +101,7 @@ class SessionController extends Controller
             if ($user->save() == false) {
                 foreach ($user->getMessages() as $message) {
                     $this->flash->error((string) $message);
+					return $this->dispatcher->forward(array("action" => "register"));
                 }
             } else {
                 Tag::setDefault('email', '');

@@ -119,3 +119,10 @@ $di->set('flash', function(){
 $di->set('auth', function () {
     return new Auth();
 });
+
+/**
+ * Custom mail component
+ */
+$di->set('mail', function () {
+    return new Mail();
+});

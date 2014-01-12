@@ -19,7 +19,7 @@
 		<div class="well">
 			<div class="row">
 				<div class="col-lg-4">
-					<img src="<?=$series->poster;?>" alt="" />
+					<img src="http://abmedia.abaka.pw/s/thumbs/<?=$series->id;?>.jpg" alt="" />
 				</div>
 				<div class="col-lg-8">
 					<h3><?=$series->title;?></h3>

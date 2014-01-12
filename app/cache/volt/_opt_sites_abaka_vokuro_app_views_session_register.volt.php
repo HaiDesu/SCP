@@ -7,7 +7,7 @@
 				</div>
                 <div class="panel-body">
 					<?php echo $this->getContent(); ?>
-                    <?php echo $this->tag->form(array('session/register', 'id' => 'registerForm', 'class' => 'form-horizontal', 'onbeforesubmit' => 'return false')); ?>
+                    <?php echo $this->tag->form(array('session/create', 'id' => 'registerForm', 'class' => 'form-horizontal', 'onbeforesubmit' => 'return false')); ?>
                     <div class="form-group">
                         <label for="username" class="col-sm-3 control-label">
                             Username</label>

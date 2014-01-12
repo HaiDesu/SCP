@@ -1,0 +1,33 @@
+[Sat, 11 Jan 14 02:42:10 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 02:42:10 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 02:42:11 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 02:42:11 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 03:18:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 03:18:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 03:18:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 03:18:09 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 17:20:01 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 17:20:01 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 17:20:02 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 17:20:02 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 18:05:15 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 18:05:15 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 18:05:15 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 18:05:15 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 18:27:28 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 18:27:28 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 18:27:29 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 18:27:29 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 18:33:42 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Sat, 11 Jan 14 18:33:42 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Sat, 11 Jan 14 18:47:24 +0000][ERROR] Invalid argument supplied for foreach() /opt/sites/abaka/vokuro/app/controllers/SeriesController.php:123
+[Sat, 11 Jan 14 18:47:54 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Sat, 11 Jan 14 18:47:54 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Sat, 11 Jan 14 18:51:10 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 18:51:10 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 18:51:12 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 18:51:12 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66
+[Sat, 11 Jan 14 18:51:33 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:109
+[Sat, 11 Jan 14 18:51:33 +0000][ERROR] Trying to get property of non-object /opt/sites/abaka/vokuro/app/models/Series.php:116
+[Sat, 11 Jan 14 19:40:55 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:19
+[Sat, 11 Jan 14 19:40:55 +0000][ERROR] Undefined variable: i_user /opt/sites/abaka/vokuro/app/cache/volt/_opt_sites_abaka_vokuro_app_views_layouts_nav.volt.php:66

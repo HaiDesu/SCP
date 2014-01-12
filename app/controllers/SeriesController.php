@@ -76,13 +76,9 @@ class SeriesController extends ControllerBase
             $this->tag->setDefault("episodes", $series->episodes);
             $this->tag->setDefault("status", $series->status);
             $this->tag->setDefault("synopsis", $series->synopsis);
-            $this->tag->setDefault("poster", $series->poster);
-			
-			$genres = SeriesGenres::find(array(
-				'seriesId = ?0', 'bind' => array($series->id)
-			));
-			$this->view->setVar("genreslist", Genres::find());
-			$this->view->setVar("genres", $genres);
+            //$this->tag->setDefault("poster", $series->poster);
+
+			$this->view->setVar("genres", Genres::find());
             
         }
     }
@@ -104,14 +100,12 @@ class SeriesController extends ControllerBase
 		$series = new Series();
         $series->title = trim($this->request->getPost("title", "striptags"));
         $series->altTitle = $this->request->getPost("altTitle", "striptags");
-        $series->slug = rawurlencode(str_replace(' ','_', mb_strtolower($series->title)));
+        $series->slug = rawurlencode(str_replace(' ','_', str_replace('/','_', mb_strtolower($series->title))));
         $series->type = $this->request->getPost("type", "trim");
         $series->episodes = $this->request->getPost("episodes", "int");
         $series->status = $this->request->getPost("status" , "trim");
         $series->synopsis = $this->request->getPost("synopsis", "trim");
-        $series->poster = strip_tags($this->request->getPost("poster", "trim"));
         $series->dateAdded = new RawValue('now()');
-		$series->save();
 
 		if (!$series->save()) {
             foreach ($series->getMessages() as $message) {
@@ -126,7 +120,6 @@ class SeriesController extends ControllerBase
 			$sg = new SeriesGenres();
 			$sg->seriesId = $series->id;
 			$sg->genresId = $genre;
-			$sg->save();
 			
 			if (!$sg->save()) {
 				foreach ($sg->getMessages() as $message) {
@@ -149,6 +142,11 @@ class SeriesController extends ControllerBase
 				$i++;
 			}
 		}
+		
+		// upload poster to our storage server
+		$gST['poster'] = rawurlencode(strip_tags($this->request->getPost("poster", "trim")));
+		$gST['id'] = $series->id;
+		$uploadThumb = $this->_saveSeriesThumb($gST);
 		
         $this->flash->success("series was created successfully");
         return $this->dispatcher->forward(array("controller" => "series", "action" => "index"));
@@ -185,7 +183,7 @@ class SeriesController extends ControllerBase
         $series->altTitle = $this->request->getPost("altTitle", "striptags");
         $series->slug = rawurlencode(str_replace(' ','_', mb_strtolower($series->title)));
         $series->type = $this->request->getPost("type", "trim");
-        $series->episodes = $this->request->getPost("episodes", "int");
+        $series->episodes = $this->request->getPost("episodes", "trim");
         $series->status = $this->request->getPost("status" , "trim");
         $series->synopsis = $this->request->getPost("synopsis", "trim");
         $series->poster = strip_tags($this->request->getPost("poster", "trim"));
@@ -308,6 +306,23 @@ class SeriesController extends ControllerBase
             return $this->dispatcher->forward(array("controller" => "series","action" => "relations"));	
 		}		
 		return $this->forward('series/relation');
+	}
+	
+	/**
+	 * Stores image on our storage server
+	 */
+	private function _saveSeriesThumb($gST)
+	{
+		$curl = curl_init();
+		curl_setopt($curl, CURLOPT_URL,"http://remote.abaka.pw/request.php");
+		curl_setopt($curl, CURLOPT_POST, 1);
+		//curl_setopt($curl, CURLOPT_POSTFIELDS, "Hello=World&Foo=Bar&Baz=Wombat");
+		curl_setopt($curl, CURLOPT_POSTFIELDS, "type=seriesthumb&id=".$gST['id']."&url=".$gST['poster']."");
+
+		$curr['result'] = curl_exec ($curl);
+		$curr['error'] = curl_error($curl);
+		curl_close ($curl);
+		return $curr;
 	}
 
 }

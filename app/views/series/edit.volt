@@ -22,11 +22,14 @@
 			</div>
 			<div class="panel-body">
 				<?=$this->getContent();?>
+				<div class="alert alert-info">
+					<strong>IMPORTANT!</strong> If you are editing a series, you MUST re-select ALL the genres! When editing a series, the existing genres are automatically removed. This is intentional and not likely to change soon. JUST REMEMBER TO RE-ADD THE GENRES!!!
+				</div>
 				<form action="/series/save" class="form-horizontal" method="post" accept-charset="utf-8">
 					<div class="form-group">
 						<label for="title" class="col-sm-2 control-label">Title</label>
 						<div class="col-sm-8">
-							<?php echo $this->tag->textField(array("title", 'maxlength' => 128, 'class' => 'form-control', 'placeholder' => 'Series Title', 'required' => 'required')) ?>
+							<?php echo $this->tag->textField(array("title", 'maxlength' => 128, 'class' => 'form-control')) ?>
 							<span class="help-block"><em>Paste as plain text only. Make sure your browser uses UTF-8 encoding.</em></span>
 						</div>
 					</div>
@@ -44,6 +47,13 @@
 						</div>
 					</div>
 					<div class="form-group">
+						<label for="episodes" class="col-sm-2 control-label">Episodes</label>
+						<div class="col-sm-4">
+							<?php echo $this->tag->textField(array("episodes", 'type' => 'number', 'class' => 'form-control')) ?>
+							<span class="help-block"><em>Number of episodes carded for series. If unsure pick 10 and then edit it later.</em></span>
+						</div>
+					</div>
+					<div class="form-group">
 						<label for="status" class="col-sm-2 control-label">Status</label>
 						<div class="col-sm-4">
 							<?=$this->tag->selectStatic(array("status", array(
@@ -56,7 +66,7 @@
 					<div class="form-group">
 						<label for="poster" class="col-sm-2 control-label">Poster</label>
 						<div class="col-sm-8">
-							<?php echo $this->tag->textField(array("poster", 'maxlength' => 96, 'class' => 'form-control', 'placeholder' => 'Poster URL')) ?>
+							<?php echo $this->tag->textField(array("poster", 'maxlength' => 96, 'class' => 'form-control', 'placeholder' => 'Poster URL', 'placeholder' => '')) ?>
 							<span class="help-block"><em>Use only direct image links. Use imgur.com for now.</em></span>
 						</div>
 					</div>
@@ -71,18 +81,18 @@
 						<label for="poster" class="col-sm-2 control-label">Genres</label>
 						<div class="col-sm-10">
 							<ul class="list-unstyled">
-								{% for genre in genreslist %}
+								<?php foreach ($genres as $genre) { ?>
 								<li style="display:inline-block;width:25%;">
 									<input type="checkbox" name="genres[]" value="<?=$genre->id;?>" required /> <label for="genres" class="no-weight"><?=$genre->name;?></label>
 								</li>
-								{% endfor %}
+								<? } ?>
 							<ul>
 						</div>
 					</div>
 					<div class="form-group">
 						<div class="col-sm-offset-2 col-sm-10">
-							<button type="reset" class="btn btn-default">Reset</button>
 							<button type="submit" class="btn btn-success"><span class="icon-disk"></span> Save</button>
+							<a class="btn btn-default">Remember to re-select the genres!</a>
 						</div>
 					</div>
 				</form>
